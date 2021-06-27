@@ -1,6 +1,10 @@
 # Data Files
 Resources/
 
+# Tensorflow Profile
+deep_learning_profiled.ipynb
+logs/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
