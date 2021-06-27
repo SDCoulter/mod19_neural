@@ -1,9 +1,14 @@
 # Data Files
 Resources/
 
-# Tensorflow Profile
+# TensorFlow Profile
 deep_learning_profiled.ipynb
 logs/
+
+# TensorFlow Checkpoints
+checkpoints/
+
+#####
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
